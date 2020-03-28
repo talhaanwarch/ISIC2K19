@@ -14,3 +14,7 @@ Dermatofibroma
 Vascular lesion
 Squamous cell carcinoma
 None of the others
+
+## Result
+![Result](https://github.com/talhaanwarch/ISIC2K19/blob/master/result.png)
+
