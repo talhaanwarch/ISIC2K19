@@ -5,15 +5,15 @@ Skin cancer is the most common cancer globally, with melanoma being the most dea
 ## Task
 The goal for ISIC 2019 is classify dermoscopic images among nine different diagnostic categories:
 
-Melanoma
-Melanocytic nevus
-Basal cell carcinoma
-Actinic keratosis
-Benign keratosis (solar lentigo / seborrheic keratosis / lichen planus-like keratosis)
-Dermatofibroma
-Vascular lesion
-Squamous cell carcinoma
-None of the others
+Melanoma  
+Melanocytic nevus  
+Basal cell carcinoma  
+Actinic keratosis  
+Benign keratosis (solar lentigo / seborrheic keratosis / lichen planus-like keratosis)  
+Dermatofibroma  
+Vascular lesion  
+Squamous cell carcinoma  
+None of the others  
 
 ## Result
 ![Result](https://github.com/talhaanwarch/ISIC2K19/blob/master/result.png)
